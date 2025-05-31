@@ -40,27 +40,28 @@
    <img src="https://github.com/user-attachments/assets/30ab2e89-5e2a-43ac-abab-60990a8931b8" width=25%>
    <br>
 
-4. **대형, 중형, 소형견 필터 기능**<br>
+3. **대형, 중형, 소형견 필터 기능**<br>
    <img src="https://github.com/user-attachments/assets/749a4e63-3703-4944-a274-6635dacaa052" width=25%>
    <br>
 
-5. **즐겨찾기 및 매장 검색 기능**
-   <br>
+4. **즐겨찾기 및 매장 검색 기능**
+   <br><br>
     
-7. **나의 반려 동물 등록 및 확인 기능**<br>
+5. **나의 반려 동물 등록 및 확인 기능**<br>
    <img src="https://github.com/user-attachments/assets/088e098f-5a11-4eb5-81f0-4ca965552ed7" width=25%>
    <img src="https://github.com/user-attachments/assets/7c83b6ad-0410-48b1-9c85-a60ba469d359" width=25%>
    <br>
 
-8. **챗봇**<br>
+6. **챗봇**<br>
+   - ChatGPT API를 사용하여 생성된 텍스트를 클라이언트로 SSE 방식으로 전송
    <img src="https://github.com/user-attachments/assets/662cf615-5fcd-4417-a2a1-9233ac814334" width=25%>
    <br>
     
-9. **회원가입 / 로그인**<br>
+7. **회원가입 / 로그인**<br>
    - 폼 로그인<br>
    - 소셜 로그인 (구글, 네이버)
 
-<br>
+<br><br>
 
 # 개발 기간
 2024.3 ~ 2024.6
