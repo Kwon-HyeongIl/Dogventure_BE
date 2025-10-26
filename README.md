@@ -1,8 +1,10 @@
+# Dogventure
+
 <img src="https://github.com/user-attachments/assets/e0911369-acd3-474d-aced-7c7572720dc2">
 
 <br><br>
 
-# 1. 프로젝트 소개
+## 프로젝트 소개
 
 - 반려견 지도 웹 서비스
     1. 반려견 관련 장소(숙소, 식당, 산책 등) 정보 제공
@@ -11,7 +13,7 @@
  
 <br><br>
  
-# 2. 팀원
+## 팀원
 
 | **권형일(팀장)** | **윤상연** | **임가은** | **유하경** | **강연우** |
 | :-----------: | :------: | :------: | :------: | :------: |
@@ -19,7 +21,7 @@
 
 <br><br>
 
-# 3. 개발 환경
+## 개발 환경
 
 - 프론트엔드 : HTML, CSS, JS, React
 - 백엔드 : JAVA, OAUTH, spring, AWS, MySQL, JWT
@@ -28,7 +30,7 @@
 
 <br><br>
 
-# 4. 핵심 기능
+## 핵심 기능
 
 1. **메인 화면**<br>
    <img src="https://github.com/user-attachments/assets/79711c18-a3ad-4304-a109-ccde47a224de" width=25%>
@@ -63,5 +65,5 @@
 
 <br><br>
 
-# 개발 기간
+## 개발 기간
 2024.3 ~ 2024.6
